@@ -1,0 +1,15 @@
+/* Basic styles for game board */
+#gameBoard {
+    width: 200px;
+    height: 400px;
+    background-color: #000;
+}
+
+/* Styles for active piece and filled cells */
+.activePiece {
+    background-color: blue;
+}
+
+.filledCell {
+    background-color: red;
+}
